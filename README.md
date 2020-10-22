@@ -15,7 +15,7 @@ simple React curd app using MERN stack.
 
   - Fetch exercise from atlas mongo DB and show that list in home page
   -  create , edit, delete exercise  and create user
-  
+   
 # scripts
  To run Front end 
 Enter into Fitbit folder and run below commands in terminal 
